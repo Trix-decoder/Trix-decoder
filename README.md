@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Trix-decoder
+- 👋 Hi, I’m @Kvng
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning lua
 - 💞️ I’m looking to collaborate on 12th
